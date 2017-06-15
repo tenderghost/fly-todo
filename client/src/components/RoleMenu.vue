@@ -7,6 +7,7 @@
             <div class="menu">
                 <div class="item" data-value="1">Male</div>
                 <div class="item" data-value="2">Female</div>
+                <div class="item" data-value="3">Other</div>
             </div>
         </div>
     </div>
