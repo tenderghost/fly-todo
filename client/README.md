@@ -1,4 +1,4 @@
-# fly_todo_client
+# Fly Todolist frontend.
 
 > Fly Todolist frontend.
 
