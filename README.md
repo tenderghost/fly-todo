@@ -1,4 +1,4 @@
-# Flylist
+# Fly Todolist
 A very simple todolist project
 
 ## Project structure
